@@ -1,5 +1,10 @@
 line 1
 line 2
 line 3
+<<<<<<< HEAD
 left branch 1
 left branch 2
+=======
+Right Branch 1
+Right Branch 2
+>>>>>>> right
